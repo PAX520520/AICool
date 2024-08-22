@@ -1,0 +1,13 @@
+{
+    "UpdateTime" : "2024-08-22 18:06:01",
+    "DataSource" : [
+        {
+            "Folder" : "amoji",
+            "FileURL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/Sources/stickers/amoji/01.webp"
+        },
+        {
+            "Folder" : "amoji",
+            "FileURL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/Sources/stickers/amoji/02.webp"
+        }
+    ]
+}
