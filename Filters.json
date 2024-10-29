@@ -1,0 +1,1103 @@
+{
+  "DataSource" : [
+    {
+      "FilterNamePrefix" : "bright",
+      "List" : [
+        {
+          "Name" : "bright_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/bright_1.webp",
+          "IsNeedVip" : 1
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/bright_2.webp",
+          "IsNeedVip" : 0,
+          "Name" : "bright_2"
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/bright_3.webp",
+          "Name" : "bright_3"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/bright_4.webp",
+          "IsNeedVip" : 0,
+          "Name" : "bright_4"
+        }
+      ],
+      "SuperName" : "Bright"
+    },
+    {
+      "SuperName" : "BW",
+      "List" : [
+        {
+          "IsNeedVip" : 0,
+          "Name" : "bw_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/bw_1.webp"
+        },
+        {
+          "Name" : "bw_2",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/bw_2.webp"
+        },
+        {
+          "Name" : "bw_3",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/bw_3.webp"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "bw_4",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/bw_4.webp"
+        },
+        {
+          "Name" : "bw_5",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/bw_5.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "bw_6",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/bw_6.webp",
+          "IsNeedVip" : 1
+        }
+      ],
+      "FilterNamePrefix" : "bw"
+    },
+    {
+      "FilterNamePrefix" : "chill",
+      "List" : [
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/chill_1.webp",
+          "Name" : "chill_1"
+        }
+      ],
+      "SuperName" : "Chill"
+    },
+    {
+      "FilterNamePrefix" : "code",
+      "List" : [
+        {
+          "Name" : "code_1",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/code_1.webp"
+        }
+      ],
+      "SuperName" : "Code"
+    },
+    {
+      "List" : [
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_1.webp",
+          "IsNeedVip" : 0,
+          "Name" : "cold_1"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_2.webp",
+          "Name" : "cold_2",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_3.webp",
+          "IsNeedVip" : 0,
+          "Name" : "cold_3"
+        },
+        {
+          "Name" : "cold_4",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_4.webp"
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_5.webp",
+          "Name" : "cold_5"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "cold_6",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_6.webp"
+        },
+        {
+          "Name" : "cold_7",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_7.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "cold_8",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_8.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_9.webp",
+          "Name" : "cold_9",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_10.webp",
+          "IsNeedVip" : 0,
+          "Name" : "cold_10"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_11.webp",
+          "IsNeedVip" : 0,
+          "Name" : "cold_11"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "cold_12",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_12.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_13.webp",
+          "Name" : "cold_13",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "cold_14",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_14.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "cold_15",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_15.webp"
+        },
+        {
+          "IsNeedVip" : 1,
+          "Name" : "cold_16",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cold_16.webp"
+        }
+      ],
+      "FilterNamePrefix" : "cold",
+      "SuperName" : "Cold"
+    },
+    {
+      "FilterNamePrefix" : "color",
+      "List" : [
+        {
+          "Name" : "color_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/color_1.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "color_2",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/color_2.webp",
+          "IsNeedVip" : 0
+        }
+      ],
+      "SuperName" : "Color"
+    },
+    {
+      "FilterNamePrefix" : "cube",
+      "List" : [
+        {
+          "Name" : "cube_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cube_1.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "cube_2",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cube_2.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cube_3.webp",
+          "Name" : "cube_3",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cube_4.webp",
+          "IsNeedVip" : 0,
+          "Name" : "cube_4"
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cube_5.webp",
+          "Name" : "cube_5"
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cube_6.webp",
+          "Name" : "cube_6"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cube_7.webp",
+          "Name" : "cube_7",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "cube_8",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cube_8.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cube_9.webp",
+          "Name" : "cube_9",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 1,
+          "Name" : "cube_10",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/cube_10.webp"
+        }
+      ],
+      "SuperName" : "Cube"
+    },
+    {
+      "List" : [
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/euro_1.webp",
+          "Name" : "euro_1"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "euro_2",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/euro_2.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/euro_3.webp",
+          "Name" : "euro_3",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "euro_4",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/euro_4.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/euro_5.webp",
+          "Name" : "euro_5",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/euro_6.webp",
+          "IsNeedVip" : 1,
+          "Name" : "euro_6"
+        }
+      ],
+      "SuperName" : "Euro",
+      "FilterNamePrefix" : "euro"
+    },
+    {
+      "SuperName" : "Fade",
+      "FilterNamePrefix" : "fade",
+      "List" : [
+        {
+          "IsNeedVip" : 0,
+          "Name" : "fade_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/fade_1.webp"
+        }
+      ]
+    },
+    {
+      "SuperName" : "Film",
+      "FilterNamePrefix" : "film",
+      "List" : [
+        {
+          "Name" : "film_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/film_1.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "film_2",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/film_2.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "film_3",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/film_3.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "film_4",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/film_4.webp"
+        },
+        {
+          "Name" : "film_5",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/film_5.webp",
+          "IsNeedVip" : 1
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/film_6.webp",
+          "Name" : "film_6",
+          "IsNeedVip" : 0
+        }
+      ]
+    },
+    {
+      "List" : [
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/fuji_1.webp",
+          "Name" : "fuji_1",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/fuji_2.webp",
+          "Name" : "fuji_2",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "fuji_3",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/fuji_3.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/fuji_4.webp",
+          "Name" : "fuji_4",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/fuji_5.webp",
+          "Name" : "fuji_5",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/fuji_6.webp",
+          "Name" : "fuji_6",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "fuji_7",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/fuji_7.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/fuji_8.webp",
+          "IsNeedVip" : 0,
+          "Name" : "fuji_8"
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/fuji_9.webp",
+          "Name" : "fuji_9"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "fuji_10",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/fuji_10.webp"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "fuji_11",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/fuji_11.webp"
+        },
+        {
+          "Name" : "fuji_12",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/fuji_12.webp",
+          "IsNeedVip" : 1
+        }
+      ],
+      "FilterNamePrefix" : "fuji",
+      "SuperName" : "Fuji"
+    },
+    {
+      "SuperName" : "Hollywood",
+      "FilterNamePrefix" : "hollywood",
+      "List" : [
+        {
+          "IsNeedVip" : 0,
+          "Name" : "hollywood_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/hollywood_1.webp"
+        }
+      ]
+    },
+    {
+      "SuperName" : "Kodak",
+      "FilterNamePrefix" : "kodak",
+      "List" : [
+        {
+          "Name" : "kodak_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/kodak_1.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/kodak_2.webp",
+          "Name" : "kodak_2",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/kodak_3.webp",
+          "Name" : "kodak_3",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "kodak_4",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/kodak_4.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/kodak_5.webp",
+          "Name" : "kodak_5"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/kodak_6.webp",
+          "Name" : "kodak_6",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "kodak_7",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/kodak_7.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "kodak_8",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/kodak_8.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/kodak_9.webp",
+          "IsNeedVip" : 1,
+          "Name" : "kodak_9"
+        }
+      ]
+    },
+    {
+      "SuperName" : "Land",
+      "List" : [
+        {
+          "Name" : "land_1",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/land_1.webp"
+        }
+      ],
+      "FilterNamePrefix" : "land"
+    },
+    {
+      "SuperName" : "Legacy",
+      "List" : [
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_1.webp",
+          "Name" : "legacy_1",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "legacy_2",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_2.webp"
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_3.webp",
+          "Name" : "legacy_3"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "legacy_4",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_4.webp"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "legacy_5",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_5.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_6.webp",
+          "IsNeedVip" : 0,
+          "Name" : "legacy_6"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "legacy_7",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_7.webp"
+        },
+        {
+          "Name" : "legacy_8",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_8.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_9.webp",
+          "IsNeedVip" : 0,
+          "Name" : "legacy_9"
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_10.webp",
+          "Name" : "legacy_10"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_11.webp",
+          "Name" : "legacy_11",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "legacy_12",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_12.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "legacy_13",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_13.webp"
+        },
+        {
+          "Name" : "legacy_14",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_14.webp"
+        },
+        {
+          "Name" : "legacy_15",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_15.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_16.webp",
+          "Name" : "legacy_16"
+        },
+        {
+          "Name" : "legacy_17",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_17.webp"
+        },
+        {
+          "Name" : "legacy_18",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_18.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_19.webp",
+          "IsNeedVip" : 0,
+          "Name" : "legacy_19"
+        },
+        {
+          "IsNeedVip" : 1,
+          "Name" : "legacy_20",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/legacy_20.webp"
+        }
+      ],
+      "FilterNamePrefix" : "legacy"
+    },
+    {
+      "List" : [
+        {
+          "Name" : "light_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/light_1.webp",
+          "IsNeedVip" : 0
+        }
+      ],
+      "SuperName" : "Light",
+      "FilterNamePrefix" : "light"
+    },
+    {
+      "List" : [
+        {
+          "Name" : "lomo_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/lomo_1.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "lomo_2",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/lomo_2.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/lomo_3.webp",
+          "Name" : "lomo_3",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "lomo_4",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/lomo_4.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/lomo_5.webp",
+          "Name" : "lomo_5",
+          "IsNeedVip" : 1
+        }
+      ],
+      "FilterNamePrefix" : "lomo",
+      "SuperName" : "Lomo"
+    },
+    {
+      "List" : [
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/mood_1.webp",
+          "IsNeedVip" : 0,
+          "Name" : "mood_1"
+        },
+        {
+          "Name" : "mood_2",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/mood_2.webp"
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/mood_3.webp",
+          "Name" : "mood_3"
+        },
+        {
+          "Name" : "mood_4",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/mood_4.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "mood_5",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/mood_5.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/mood_6.webp",
+          "Name" : "mood_6",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/mood_7.webp",
+          "Name" : "mood_7",
+          "IsNeedVip" : 1
+        }
+      ],
+      "FilterNamePrefix" : "mood",
+      "SuperName" : "Mood"
+    },
+    {
+      "SuperName" : "Movie",
+      "FilterNamePrefix" : "movie",
+      "List" : [
+        {
+          "Name" : "movie_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/movie_1.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "movie_2",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/movie_2.webp"
+        },
+        {
+          "Name" : "movie_3",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/movie_3.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/movie_4.webp",
+          "Name" : "movie_4",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/movie_5.webp",
+          "IsNeedVip" : 0,
+          "Name" : "movie_5"
+        }
+      ]
+    },
+    {
+      "SuperName" : "Normal",
+      "FilterNamePrefix" : "normal",
+      "List" : [
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/normal_1.webp",
+          "IsNeedVip" : 0,
+          "Name" : "normal_1"
+        },
+        {
+          "Name" : "normal_2",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/normal_2.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/normal_3.webp",
+          "IsNeedVip" : 0,
+          "Name" : "normal_3"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/normal_4.webp",
+          "Name" : "normal_4",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/normal_5.webp",
+          "IsNeedVip" : 0,
+          "Name" : "normal_5"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/normal_6.webp",
+          "IsNeedVip" : 0,
+          "Name" : "normal_6"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/normal_7.webp",
+          "IsNeedVip" : 0,
+          "Name" : "normal_7"
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/normal_8.webp",
+          "Name" : "normal_8"
+        },
+        {
+          "Name" : "normal_9",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/normal_9.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/normal_10.webp",
+          "IsNeedVip" : 0,
+          "Name" : "normal_10"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/normal_11.webp",
+          "IsNeedVip" : 1,
+          "Name" : "normal_11"
+        }
+      ]
+    },
+    {
+      "FilterNamePrefix" : "palette",
+      "SuperName" : "Palette",
+      "List" : [
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/palette_1.webp",
+          "IsNeedVip" : 0,
+          "Name" : "palette_1"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/palette_2.webp",
+          "IsNeedVip" : 0,
+          "Name" : "palette_2"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/palette_3.webp",
+          "IsNeedVip" : 0,
+          "Name" : "palette_3"
+        },
+        {
+          "Name" : "palette_4",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/palette_4.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/palette_5.webp",
+          "Name" : "palette_5"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/palette_6.webp",
+          "Name" : "palette_6",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/palette_7.webp",
+          "IsNeedVip" : 0,
+          "Name" : "palette_7"
+        },
+        {
+          "Name" : "palette_8",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/palette_8.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "palette_9",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/palette_9.webp"
+        },
+        {
+          "Name" : "palette_10",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/palette_10.webp",
+          "IsNeedVip" : 1
+        }
+      ]
+    },
+    {
+      "SuperName" : "Pro",
+      "FilterNamePrefix" : "pro",
+      "List" : [
+        {
+          "Name" : "pro_1",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_1.webp"
+        },
+        {
+          "Name" : "pro_2",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_2.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_3.webp",
+          "Name" : "pro_3",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "pro_4",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_4.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "pro_5",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_5.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "pro_6",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_6.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_7.webp",
+          "IsNeedVip" : 0,
+          "Name" : "pro_7"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "pro_8",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_8.webp"
+        },
+        {
+          "Name" : "pro_9",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_9.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_10.webp",
+          "Name" : "pro_10",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_11.webp",
+          "Name" : "pro_11",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "pro_12",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_12.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_13.webp",
+          "Name" : "pro_13"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "pro_14",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_14.webp"
+        },
+        {
+          "Name" : "pro_15",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/pro_15.webp",
+          "IsNeedVip" : 1
+        }
+      ]
+    },
+    {
+      "SuperName" : "Retro",
+      "FilterNamePrefix" : "retro",
+      "List" : [
+        {
+          "IsNeedVip" : 0,
+          "Name" : "retro_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/retro_1.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/retro_2.webp",
+          "Name" : "retro_2",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "retro_3",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/retro_3.webp"
+        },
+        {
+          "Name" : "retro_4",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/retro_4.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/retro_5.webp",
+          "Name" : "retro_5"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "retro_6",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/retro_6.webp"
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/retro_7.webp",
+          "Name" : "retro_7"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "retro_8",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/retro_8.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/retro_9.webp",
+          "IsNeedVip" : 0,
+          "Name" : "retro_9"
+        },
+        {
+          "Name" : "retro_10",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/retro_10.webp",
+          "IsNeedVip" : 0
+        }
+      ]
+    },
+    {
+      "SuperName" : "Smooth",
+      "FilterNamePrefix" : "smooth",
+      "List" : [
+        {
+          "IsNeedVip" : 0,
+          "Name" : "smooth_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/smooth_1.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/smooth_2.webp",
+          "IsNeedVip" : 0,
+          "Name" : "smooth_2"
+        },
+        {
+          "Name" : "smooth_3",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/smooth_3.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/smooth_4.webp",
+          "Name" : "smooth_4"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/smooth_5.webp",
+          "IsNeedVip" : 0,
+          "Name" : "smooth_5"
+        },
+        {
+          "Name" : "smooth_6",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/smooth_6.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/smooth_7.webp",
+          "IsNeedVip" : 0,
+          "Name" : "smooth_7"
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/smooth_8.webp",
+          "Name" : "smooth_8"
+        },
+        {
+          "Name" : "smooth_9",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/smooth_9.webp",
+          "IsNeedVip" : 0
+        }
+      ]
+    },
+    {
+      "SuperName" : "Teal",
+      "List" : [
+        {
+          "Name" : "teal_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/teal_1.webp",
+          "IsNeedVip" : 0
+        }
+      ],
+      "FilterNamePrefix" : "teal"
+    },
+    {
+      "List" : [
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/tone_1.webp",
+          "Name" : "tone_1"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/tone_2.webp",
+          "Name" : "tone_2",
+          "IsNeedVip" : 0
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/tone_3.webp",
+          "Name" : "tone_3",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/tone_4.webp",
+          "Name" : "tone_4"
+        },
+        {
+          "Name" : "tone_5",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/tone_5.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/tone_6.webp",
+          "IsNeedVip" : 0,
+          "Name" : "tone_6"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/tone_7.webp",
+          "IsNeedVip" : 0,
+          "Name" : "tone_7"
+        },
+        {
+          "Name" : "tone_8",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/tone_8.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "Name" : "tone_9",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/tone_9.webp",
+          "IsNeedVip" : 0
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "tone_10",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/tone_10.webp"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "tone_11",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/tone_11.webp"
+        },
+        {
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/tone_12.webp",
+          "Name" : "tone_12",
+          "IsNeedVip" : 0
+        }
+      ],
+      "FilterNamePrefix" : "tone",
+      "SuperName" : "Tone"
+    },
+    {
+      "FilterNamePrefix" : "vibes",
+      "SuperName" : "Vibes",
+      "List" : [
+        {
+          "Name" : "vibes_1",
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/vibes_1.webp"
+        }
+      ]
+    },
+    {
+      "FilterNamePrefix" : "vintage",
+      "List" : [
+        {
+          "IsNeedVip" : 0,
+          "Name" : "vintage_1",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/vintage_1.webp"
+        },
+        {
+          "IsNeedVip" : 0,
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/vintage_2.webp",
+          "Name" : "vintage_2"
+        },
+        {
+          "IsNeedVip" : 0,
+          "Name" : "vintage_3",
+          "URL" : "https://raw.githubusercontent.com/PAX520520/AICool/main/filters/vintage_3.webp"
+        }
+      ],
+      "SuperName" : "Vintage"
+    }
+  ],
+  "UpdateTime" : 1730200968
+}
