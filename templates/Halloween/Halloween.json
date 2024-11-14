@@ -1,0 +1,15 @@
+{
+    "UpdateTime" : 0,
+    "DataSource" : [
+        {"id":"Halloween 1","key":"20:2","name":"Halloween 1","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Halloween/Cover_Halloween 1.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Halloween 1.zip", "isNeedVip":0},
+        {"id":"Halloween 2","key":"20:6","name":"Halloween 2","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Halloween/Cover_Halloween 2.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Halloween 2.zip", "isNeedVip":0},
+        {"id":"Halloween 3","key":"20:13","name":"Halloween 3","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Halloween/Cover_Halloween 3.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Halloween 3.zip", "isNeedVip":1},
+        {"id":"Halloween 4","key":"20:18","name":"Halloween 4","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Halloween/Cover_Halloween 4.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Halloween 4.zip", "isNeedVip":1},
+        {"id":"Halloween 5","key":"20:24","name":"Halloween 5","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Halloween/Cover_Halloween 5.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Halloween 5.zip", "isNeedVip":1},
+        {"id":"Halloween 6","key":"20:32","name":"Halloween 6","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Halloween/Cover_Halloween 6.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Halloween 6.zip", "isNeedVip":1},
+        {"id":"Halloween 7","key":"20:37","name":"Halloween 7","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Halloween/Cover_Halloween 7.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Halloween 7.zip", "isNeedVip":1},
+        {"id":"Halloween 8","key":"20:41","name":"Halloween 8","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Halloween/Cover_Halloween 8.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Halloween 8.zip", "isNeedVip":1},
+        {"id":"Halloween 9","key":"20:45","name":"Halloween 9","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Halloween/Cover_Halloween 9.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Halloween 9.zip", "isNeedVip":1},
+        {"id":"Halloween 10","key":"20:49","name":"Halloween 10","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Halloween/Cover_Halloween 10.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Halloween 10.zip", "isNeedVip":1}
+    ]
+}
