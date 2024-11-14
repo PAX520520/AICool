@@ -1,8 +1,8 @@
 {
     "UpdateTime" : 0,
     "DataSource" : [
-        {"id":"7:7","path":"Halloween.json","size":10,"title":"Halloween"},
-        {"id":"7:7","path":"Easter.json","size":10,"title":"Easter"},
-        {"id":"7:7","path":"Retro.json","size":10,"title":"Retro"},
+        {"id":"7:7","path":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Halloween.json","size":10,"title":"Halloween"},
+        {"id":"7:8","path":"https://github.com/PAX520520/AICool/raw/main/templates/Easter/Easter.json","size":10,"title":"Easter"},
+        {"id":"7:10","path":"https://github.com/PAX520520/AICool/raw/main/templates/Retro/Retro.json","size":10,"title":"Retro"}
     ]
 }
