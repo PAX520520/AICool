@@ -1,0 +1,15 @@
+{
+    "UpdateTime" : 0,
+    "DataSource" : [
+        {"id":"Easter 1","key":"87:4","name":"Easter 1","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Easter/Cover_Easter 1.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Easter/Easter 1.zip", "isNeedVip":0},
+        {"id":"Easter 2","key":"87:8","name":"Easter 2","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Easter/Cover_Easter 2.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Easter/Easter 2.zip", "isNeedVip":0},
+        {"id":"Easter 3","key":"87:12","name":"Easter 3","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Easter/Cover_Easter 3.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Easter/Easter 3.zip", "isNeedVip":1},
+        {"id":"Easter 4","key":"87:16","name":"Easter 4","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Easter/Cover_Easter 4.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Easter/Easter 4.zip", "isNeedVip":1},
+        {"id":"Easter 5","key":"87:19","name":"Easter 5","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Easter/Cover_Easter 5.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Easter/Easter 5.zip", "isNeedVip":1},
+        {"id":"Easter 6","key":"87:25","name":"Easter 6","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Easter/Cover_Easter 6.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Easter/Easter 6.zip", "isNeedVip":1},
+        {"id":"Easter 7","key":"87:29","name":"Easter 7","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Easter/Cover_Easter 7.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Easter/Easter 7.zip", "isNeedVip":1},
+        {"id":"Easter 8","key":"87:33","name":"Easter 8","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Easter/Cover_Easter 8.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Easter/Easter 8.zip", "isNeedVip":1},
+        {"id":"Easter 9","key":"87:36","name":"Easter 9","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Easter/Cover_Easter 9.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Easter/Easter 9.zip", "isNeedVip":1},
+        {"id":"Easter 10","key":"87:39","name":"Easter 10","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Easter/Cover_Easter 10.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Easter/Easter 10.zip", "isNeedVip":1}
+    ]
+}
