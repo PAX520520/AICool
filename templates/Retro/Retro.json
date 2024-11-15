@@ -2,8 +2,8 @@
     "UpdateTime" : 0,
     "DataSource" : [
         {"id":"Retro 1","key":"57:1164","name":"Retro 1","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Retro/Cover_Retro 1.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Retro 1.zip", "isNeedVip":0},
-        {"id":"Retro 2","key":"57:1213","name":"Retro 2","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Retro/Cover_Retro 2.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Retro 2.zip", "isNeedVip":0},
-        {"id":"Retro 3","key":"57:1167","name":"Retro 3","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Retro/Cover_Retro 3.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Retro 3.zip", "isNeedVip":1},
+
+        {"id":"Retro 3","key":"57:1167","name":"Retro 3","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Retro/Cover_Retro 3.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Retro 3.zip", "isNeedVip":0},
         {"id":"Retro 4","key":"57:1171","name":"Retro 4","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Retro/Cover_Retro 4.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Retro 4.zip", "isNeedVip":1},
 
         {"id":"Retro 6","key":"57:1187","name":"Retro 6","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/templates/Retro/Cover_Retro 6.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Retro 6.zip", "isNeedVip":1},
