@@ -1,0 +1,13 @@
+{
+    "UpdateTime" : 0,
+    "DataSource" : [
+        
+        {"id":"Selfie 4","key":"55:167","name":"Selfie 4","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Cover_Selfie 4.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Selfie 4.zip", "isNeedVip":0},
+
+        {"id":"Selfie 7","key":"55:185","name":"Selfie 7","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Cover_Selfie 7.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Selfie 7.zip", "isNeedVip":0},
+        {"id":"Selfie 8","key":"55:188","name":"Selfie 8","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Cover_Selfie 8.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Selfie 8.zip", "isNeedVip":1},
+        {"id":"Selfie 9","key":"55:192","name":"Selfie 9","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Cover_Selfie 9.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Selfie 9.zip", "isNeedVip":1},
+        {"id":"Selfie 10","key":"55:196","name":"Selfie 10","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Cover_Selfie 10.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Selfie 10.zip", "isNeedVip":1}
+    ]
+}
+
