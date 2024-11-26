@@ -1,0 +1,14 @@
+{
+    "UpdateTime" : 0,
+    "DataSource" : [
+        {"id":"Postcard 1","key":"77:185","name":"Postcard 1","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Cover_Postcard 1.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Postcard 1.zip", "isNeedVip":0},
+        {"id":"Postcard 2","key":"77:192","name":"Postcard 2","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Cover_Postcard 2.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Postcard 2.zip", "isNeedVip":0},
+        {"id":"Postcard 3","key":"77:207","name":"Postcard 3","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Cover_Postcard 3.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Postcard 3.zip", "isNeedVip":1},
+        {"id":"Postcard 4","key":"77:227","name":"Postcard 4","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Cover_Postcard 4.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Postcard 4.zip", "isNeedVip":1},
+
+        {"id":"Postcard 6","key":"146:53","name":"Postcard 6","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Cover_Postcard 6.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Postcard 6.zip", "isNeedVip":1},
+
+
+        {"id":"Postcard 10","key":"77:316","name":"Postcard 10","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Cover_Postcard 10.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Postcard 10.zip", "isNeedVip":1}
+    ]
+}
