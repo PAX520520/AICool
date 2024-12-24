@@ -1,0 +1,13 @@
+{
+    "UpdateTime" : 0,
+    "DataSource" : [
+        {"id":"Beach 1","key":"621:21","name":"Beach 1","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Beach/Cover_Beach 1.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Beach/Beach 1.zip", "isNeedVip":0},
+        {"id":"Beach 2","key":"621:30","name":"Beach 2","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Beach/Cover_Beach 2.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Beach/Beach 2.zip", "isNeedVip":0},
+        {"id":"Beach 3","key":"621:33","name":"Beach 3","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Beach/Cover_Beach 3.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Beach/Beach 3.zip", "isNeedVip":1},
+        {"id":"Beach 4","key":"621:39","name":"Beach 4","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Beach/Cover_Beach 4.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Beach/Beach 4.zip", "isNeedVip":1},
+        {"id":"Beach 5","key":"621:43","name":"Beach 5","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Beach/Cover_Beach 5.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Beach/Beach 5.zip", "isNeedVip":1},
+        {"id":"Beach 7","key":"621:47","name":"Beach 7","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Beach/Cover_Beach 7.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Beach/Beach 7.zip", "isNeedVip":1},
+        {"id":"Beach 8","key":"621:47","name":"Beach 8","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Beach/Cover_Beach 8.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Beach/Beach 8.zip", "isNeedVip":1},
+        {"id":"Beach 10","key":"621:47","name":"Beach 10","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Beach/Cover_Beach 10.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Beach/Beach 10.zip", "isNeedVip":1},
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "UpdateTime" : 0,
+    "DataSource" : [
+        {"id":"Family 1","key":"55:323","name":"Family 1","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Family/Cover_Family 1.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Family/Family 1.zip", "isNeedVip":0},
+        {"id":"Family 2","key":"55:323","name":"Family 2","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Family/Cover_Family 2.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Family/Family 2.zip", "isNeedVip":1},
+        {"id":"Family 6","key":"55:323","name":"Family 6","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Family/Cover_Family 6.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Family/Family 6.zip", "isNeedVip":1},
+        {"id":"Family 9","key":"55:343","name":"Family 9","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Family/Cover_Family 9.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Family/Family 9.zip", "isNeedVip":1},
+        {"id":"Family 10","key":"55:323","name":"Family 10","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Family/Cover_Family 10.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Family/Family 10.zip", "isNeedVip":1}
+    ]
+}

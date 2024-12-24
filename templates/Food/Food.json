@@ -1,0 +1,11 @@
+{
+    "UpdateTime" : 0,
+    "DataSource" : [
+        {"id":"Food 2","key":"55:323","name":"Food 2","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Food/Cover_Food 2.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Food/Food 2.zip", "isNeedVip":0},
+        {"id":"Food 3","key":"55:323","name":"Food 3","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Food/Cover_Food 3.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Food/Food 3.zip", "isNeedVip":0},
+        {"id":"Food 6","key":"55:323","name":"Food 6","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Food/Cover_Food 6.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Food/Food 6.zip", "isNeedVip":1},
+        {"id":"Food 7","key":"55:343","name":"Food 7","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Food/Cover_Food 7.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Food/Food 7.zip", "isNeedVip":1},
+        {"id":"Food 9","key":"55:323","name":"Food 9","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Food/Cover_Food 9.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Food/Food 9.zip", "isNeedVip":1},
+        {"id":"Food 10","key":"55:323","name":"Food 10","thumbnail":"https://raw.githubusercontent.com/PAX520520/AICool/main/template/Food/Cover_Food 10.jpeg","url":"https://github.com/PAX520520/AICool/raw/main/template/Food/Food 10.zip", "isNeedVip":1}
+    ]
+}
