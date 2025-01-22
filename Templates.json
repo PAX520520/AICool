@@ -1,19 +1,13 @@
 {
     "UpdateTime" : 0,
     "DataSource" : [
-        {"id":"7:10","path":"https://github.com/PAX520520/AICool/raw/main/templates/Christmas/Christmas.json","size":10,"title":"Christmas"},
-        
+        {"id":"7:10","path":"https://github.com/PAX520520/AICool/raw/main/templates/Retro/Retro.json","size":10,"title":"Retro"},
         {"id":"7:10","path":"https://github.com/PAX520520/AICool/raw/main/templates/Family/Family.json","size":10,"title":"Family"},
         {"id":"7:10","path":"https://github.com/PAX520520/AICool/raw/main/templates/Beach/Beach.json","size":10,"title":"Beach"},
         {"id":"7:10","path":"https://github.com/PAX520520/AICool/raw/main/templates/Food/Food.json","size":10,"title":"Food"},
-        
-        {"id":"7:10","path":"https://github.com/PAX520520/AICool/raw/main/templates/Retro/Retro.json","size":10,"title":"Retro"},
-        
+        {"id":"7:10","path":"https://github.com/PAX520520/AICool/raw/main/templates/Christmas/Christmas.json","size":10,"title":"Christmas"},
         {"id":"7:7","path":"https://github.com/PAX520520/AICool/raw/main/templates/Halloween/Halloween.json","size":10,"title":"Halloween"},
-        
         {"id":"7:10","path":"https://github.com/PAX520520/AICool/raw/main/templates/Selfie/Selfie.json","size":10,"title":"Selfie"},
-        
         {"id":"7:10","path":"https://github.com/PAX520520/AICool/raw/main/templates/Postcard/Postcard.json","size":10,"title":"Postcard"}
-        
     ]
 }
