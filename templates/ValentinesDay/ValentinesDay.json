@@ -1,0 +1,69 @@
+{
+  "UpdateTime" : 1739451338,
+  "DataSource" : [
+    {
+      "url" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/ValentinesDay2.zip",
+      "name" : "ValentinesDay2",
+      "isNeedVip" : 1,
+      "thumbnail" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/Cover_ValentinesDay2.png",
+      "id" : "ValentinesDay2",
+      "key" : "m8nqZOU55QyMI4ELKw00Bl:1095:20"
+    },
+    {
+      "key" : "m8nqZOU55QyMI4ELKw00Bl:1095:15",
+      "isNeedVip" : 1,
+      "name" : "ValentinesDay4",
+      "url" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/ValentinesDay4.zip",
+      "id" : "ValentinesDay4",
+      "thumbnail" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/Cover_ValentinesDay4.png"
+    },
+    {
+      "url" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/ValentinesDay7.zip",
+      "id" : "ValentinesDay7",
+      "thumbnail" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/Cover_ValentinesDay7.png",
+      "isNeedVip" : 1,
+      "key" : "m8nqZOU55QyMI4ELKw00Bl:1100:11",
+      "name" : "ValentinesDay7"
+    },
+    {
+      "isNeedVip" : 1,
+      "key" : "m8nqZOU55QyMI4ELKw00Bl:1100:35",
+      "thumbnail" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/Cover_ValentinesDay11.png",
+      "name" : "ValentinesDay11",
+      "id" : "ValentinesDay11",
+      "url" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/ValentinesDay11.zip"
+    },
+    {
+      "key" : "m8nqZOU55QyMI4ELKw00Bl:1100:53",
+      "url" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/ValentinesDay13.zip",
+      "isNeedVip" : 1,
+      "name" : "ValentinesDay13",
+      "id" : "ValentinesDay13",
+      "thumbnail" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/Cover_ValentinesDay13.png"
+    },
+    {
+      "name" : "ValentinesDay15",
+      "isNeedVip" : 1,
+      "url" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/ValentinesDay15.zip",
+      "key" : "m8nqZOU55QyMI4ELKw00Bl:1119:13",
+      "id" : "ValentinesDay15",
+      "thumbnail" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/Cover_ValentinesDay15.png"
+    },
+    {
+      "id" : "ValentinesDay16",
+      "isNeedVip" : 1,
+      "url" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/ValentinesDay16.zip",
+      "thumbnail" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/Cover_ValentinesDay16.png",
+      "key" : "m8nqZOU55QyMI4ELKw00Bl:1146:2",
+      "name" : "ValentinesDay16"
+    },
+    {
+      "url" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/ValentinesDay20.zip",
+      "id" : "ValentinesDay20",
+      "name" : "ValentinesDay20",
+      "thumbnail" : "https://github.com/PAX520520/AICool/raw/main/templates/ValentinesDay/Cover_ValentinesDay20.png",
+      "isNeedVip" : 1,
+      "key" : "m8nqZOU55QyMI4ELKw00Bl:1146:67"
+    }
+  ]
+}
