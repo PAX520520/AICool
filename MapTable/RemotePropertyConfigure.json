@@ -1,6 +1,10 @@
 {
   "DataSource" : {
-    "AIFuncFreeTime" : 2
+    "AIFuncFreeTime" : 5,
+    "EnhanceFreeTime" : 1,
+    "ColorizingFreeTime" : 1,
+    "DescratchFreeTime" : 1,
+    "PopUpVipSubscribePageMaxCount" : 2
   },
-  "UpdateTime" : 1732615608
+  "UpdateTime" : 1744875336
 }
